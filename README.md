@@ -12,4 +12,4 @@ do an airodump-ng wlan0mon to have the wifi network nearby, to have the bssid an
 
 the bssid found and the chanel do this command without forgetting to capture the packets, example:
 
-airodump-ng wlan0mon --bssid **:**:**:**:**:** -c (chanel) -w /root/dump.cap
+airodump-ng wlan0mon --bssid xx:xx:xx:xx:xx:xx -c (chanel) -w /root/dump.cap
