@@ -4,7 +4,7 @@ To sniff a wifi network and if it is a public network everything will be open so
 
 First do:
 
-airmon-ng to choose the interface, example airmon-ng start x32ing
+airmon-ng to choose the interface, example airmon-ng start (interface)
 
 so you have your monitor interface which gives wlan0mon
 
